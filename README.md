@@ -31,6 +31,7 @@ Example
 * https://github.com/fxsjy/snailseg/blob/master/test.py
 
 Sentences:
+
 	cuttest("这是一个伸手不见五指的黑夜。我叫孙悟空，我爱北京，我爱Python和C++。")
 	cuttest("我不喜欢日本和服")
 	cuttest("雷猴回归人间")
@@ -53,6 +54,7 @@ Sentences:
 	cuttest("")
 
 Efect:
+
 	这是 / 一个 / 伸手 / 不见 / 五指 / 的 / 黑夜 / 我 / 叫 / 孙悟空 / 我爱 / 北京 /
 	我爱 / Python / 和 / C++ /
 	我 / 不 / 喜欢 / 日本 / 和服 /
