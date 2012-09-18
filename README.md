@@ -10,10 +10,10 @@ Usage
 
 代码示例
 
-		import snailseg
-		words = snailseg.cut("南京市长江大桥")
-		for w in words:
-			print w
+	import snailseg
+	words = snailseg.cut("南京市长江大桥")
+	for w in words:
+		print w
 
 
 
