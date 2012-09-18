@@ -20,11 +20,12 @@ Usage
 Algorithm
 =========
 * 算法是统计单字在词语中出现位置的概率大小，选择最大可能的分词方案
+* 算法简单，只有100行纯Python代码
 
 Performance
 =========
 * 700 KB/Second
-* test env: Intel(R) Core(TM) i7-2600 CPU @ 3.4GHz
+* Test Env: Intel(R) Core(TM) i7-2600 CPU @ 3.4GHz；《围城》.txt
 
 Example
 =========
